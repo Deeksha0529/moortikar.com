@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+ }
+ body{
+    background: url(https://cdn.pixabay.com/photo/2013/07/21/13/00/rose-165819_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+     background-color: #ffffff;
+     font-family: sans-serif;
+}
+.enquiry{
+    width: 450px;
+    height: 500px;
+    background-color: #fff;
+    box-shadow: 0 0 20px 0 #6a6868;
+    top:40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+}
+.form{
+     margin: 30px;
+}
+ .input-field{
+    width: 400px;
+    height: 40px ;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right:10px ;
+    border: 1px solid #777;
+    border-radius: 14px ;
+    outline: none;
+}
+.textarea-field{
+    height: 150px;
+    padding-top: 10px;
+}
+.btn{
+     border-radius: 20px;
+     color: #000000;
+     margin-top: 18px;
+     padding: 10px;
+     background-color: #47c35a;
+     font-size: 15px;
+     border: none;
+     cursor: pointer;
+}

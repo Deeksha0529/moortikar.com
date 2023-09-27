@@ -1,0 +1,34 @@
+body{
+    marging: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(worship.jpeg);
+     background-size: cover; 
+    background-position: center;
+}
+.one{
+    width:450px;
+    box-shadow: 0 0 3px rgba(0, 0, 0, 3);
+    background: white;
+    padding: 20px;
+    margin: 8% auto 0;
+    text-align: center;
+}
+.four{
+    color: rgb(90, 90, 205);
+}
+.input-box{
+    border-radius: 15px;
+    padding: 10px;
+    marging:10px 0;
+    width: 100%;
+    border: 1px solid #999
+}
+.three{
+    padding: 10px;
+    border-radius: 20px;
+    width: 100%;
+    margin: 10px 0;
+    background-color:cornflowerblue;
+    box-shadow: #999;
+}
